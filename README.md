@@ -42,7 +42,3 @@ Based on our clustering analysis, we recommend the following tailored strategies
 * **Dissatisfied Complainers (C2)**: Prioritize issue resolution regarding charge errors, driver behavior, and app crashes. Implement structured refund programs and targeted apology/compensation offers.
 * **Loyal Advocates (C3)**: Provide VIP perks (e.g., early feature access) and feature these users in campaigns to encourage social sharing and positive reviews.
 
----
-
-## Team
-Liyu Tenaw, Patrick Bardsley, Ronni Lilly, Sahar Maleki, Jin Zhao
